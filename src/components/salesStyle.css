@@ -1,0 +1,41 @@
+.sale{
+    background-color: #ecfdff;
+}
+
+.sale-container{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+
+.sale-image{
+    margin: 20px;
+    padding-right: 30px;
+}
+
+.sale-title{
+    font-size: 3.5rem;
+    font-weight: bolder;
+}
+
+.count-down{
+    gap: 30px;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+.button-buy{
+    margin-top: 22px;
+    padding: 20px 46px;
+    font-weight: 700;
+    background-color: rgb(46, 177, 194);
+    border: none;
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+.button-buy:hover{
+    background-color: rgb(226, 63, 63);
+    transition: 300ms;
+}

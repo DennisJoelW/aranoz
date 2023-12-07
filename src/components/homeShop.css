@@ -1,0 +1,74 @@
+.homeshop{    
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 200px;
+    margin-top: 80px;
+}
+
+.shop-title{
+    margin-left: 5px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+.shop-item{
+    padding: 0;
+    margin: 0;
+}
+
+.shop-stuff{
+    width: 263px;
+    margin: 18px;
+}
+
+.shop-stuff > h3 {
+    font-size: 24px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-left: 6px;
+}
+
+.shop-stuff > h4{
+    font-size: 20px;
+    margin-left: 6px;
+}
+
+.add-cart{
+    display: flex;
+    color: #ff3368;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 18px;
+    margin-top: 25px;
+    padding-bottom: 20px;
+    visibility: hidden;
+}
+
+.bi-plus-circle{
+    margin-left: 6px;
+    margin-top: 5px;
+    margin-right: 3px;
+    color: #ff3368;
+    width: 20px;
+    height: 20px;
+}
+
+.row-shop-item .shop-item:hover .add-cart{
+    visibility: visible;
+    transform: translate(8px);
+    transition: transform 0.4s;
+}
+
+.row-shop-item .shop-item:hover .shop-stuff > h3{
+    transform: translate(8px);
+    transition: transform 0.4s;
+}
+
+.row-shop-item .shop-item:hover .shop-stuff > h4{
+    transform: translate(8px);
+    transition: transform 0.4s;
+}
+
+.shop-stuff:hover{
+    box-shadow: 2px 1px 2px 1px rgba(0, 0, 0, 0.2), 0 3px 11px 0 rgba(0, 0, 0, 0.13);
+    transition: 0.4s;
+}

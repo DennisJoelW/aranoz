@@ -1,0 +1,67 @@
+/* header{
+    font-family: 'Poppins', sans-serif;
+}   
+
+
+.nav{
+    height: 100px;
+}
+
+.logo-aranoz{
+    width: 130px;
+}
+
+.menu-item{
+    align-content: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.nav-item{
+    margin-right: 35px;
+}
+
+.nav-item > a {
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    text-transform: capitalize;
+}
+
+.bi {
+    margin-left: 30px;
+    color: black;
+}
+
+.search-bar{
+    padding: 0;
+    background: #ff3368;
+    align-items: center;
+    align-content: center;
+}
+
+.search-bar-hide{
+    visibility: hidden;
+}
+
+.search-bar input{
+    width: 94%;
+    padding: 15px 20px;
+    background: #ff3368;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.bi-x{
+    color: white;
+    width: 30px;
+}
+
+::placeholder {
+    color: white;
+    opacity: 1;
+    font-weight: 500;
+}
+ */
