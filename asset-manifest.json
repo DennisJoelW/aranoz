@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/aranoz/static/css/main.932ab1bd.css",
+    "main.js": "/aranoz/static/js/main.53b2e7c9.js",
+    "static/media/sofa.webp": "/aranoz/static/media/sofa.687249fee73bbd09dff4.webp",
+    "static/media/sale.webp": "/aranoz/static/media/sale.54244772b865a855cd36.webp",
+    "static/media/kursi1.webp": "/aranoz/static/media/kursi1.605597295ee666cffeb8.webp",
+    "static/media/kursi2.webp": "/aranoz/static/media/kursi2.1973e55f0f297bb0f70b.webp",
+    "static/media/feature_3.png.webp": "/aranoz/static/media/feature_3.png.c216b3c3e13164f41ad8.webp",
+    "static/media/sofakuning.webp": "/aranoz/static/media/sofakuning.b35c2c129ccc1e8322bc.webp",
+    "static/media/shop4.webp": "/aranoz/static/media/shop4.805e54ca6b6603c8377e.webp",
+    "static/media/shop2.webp": "/aranoz/static/media/shop2.7f00d2a655714823477a.webp",
+    "static/media/shop1.webp": "/aranoz/static/media/shop1.aa39c6907bc933827901.webp",
+    "static/media/shop3.webp": "/aranoz/static/media/shop3.9a393cf2dd42110b25c0.webp",
+    "index.html": "/aranoz/index.html",
+    "static/media/search.svg": "/aranoz/static/media/search.b1f781b99ceaafb9c831949bb54ae3cd.svg",
+    "main.932ab1bd.css.map": "/aranoz/static/css/main.932ab1bd.css.map",
+    "main.53b2e7c9.js.map": "/aranoz/static/js/main.53b2e7c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.932ab1bd.css",
+    "static/js/main.53b2e7c9.js"
+  ]
+}
